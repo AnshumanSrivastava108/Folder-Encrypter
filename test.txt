@@ -1,0 +1,4 @@
+In computing, cacls and its replacement, icacls, are Microsoft Windows native command line utilities capable of displaying and modifying the security descriptors on folders and files.
+ An access control list is a list of permissions for securable object, such as a file or folder, that controls who can access it.[8]
+
+The cacls.exe utility is a deprecated command line editor of directory and file security descriptors in Windows NT 3.5 and later operating systems of the Windows NT family.
