@@ -2,7 +2,7 @@
 
 Projects aims at building a folder locker to maintain the confidentiality and integrity of data present inside the folder in the form of text files and encrypt and decrypt confidential files using RSA Algorithm. This software to act like a shield and protect system files and folders And because locking your folders makes them inaccessible, they cannot be deleted, damaged, or harmed in any other way.
 
-## Language and Software Used
+## Languages and Softwares Used
 
 1. C Programming Language - General-purpose, procedural computer programming language supporting structured programming and lexical variable scope.
 2. Microsoft Visual Studio - Integrated development environment from Microsoft. Visual Studio dev tools & services make development easy for C++ language.
