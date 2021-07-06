@@ -40,9 +40,12 @@ For a more detailed explanation of this project check [*Folder_Encrypter_Documen
 
 ### Folder Locking
 
-In computing, cacls and its replacement, icacls, are Microsoft Windows native command line utilities capable of displaying and modifying the security descriptors on folders and files. An access control list is a list of permissions for securable object, such as a file or folder, that controls who can access it.[8]
+In computing, cacls and its replacement, icacls, are Microsoft Windows native command line utilities capable of displaying and modifying the security descriptors on folders and files. An access control list is a list of permissions for securable object, such as a file or folder, that controls who can access it.
+
 To lock your file or folder type cacls "File Path" [/t] /e /p everyone:n. The /t is used to lock all folders and files within a folder. My file is located at C:\Users\Michael\Desktop\Cool\testdoc.txt, so I will type cacls "C:\Users\Michael\Desktop\Cool\testdoc.txt" /e /p everyone:n.
+
 har mych2[]="\" /t /e /p everyone:n"; -To lock the folder
+
 har mych2[]="\" /t /e /p everyone:f";-To Unlock the folder
 
 ## Results
